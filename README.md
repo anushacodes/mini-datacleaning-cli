@@ -2,7 +2,6 @@
 
 Lightweight Python command-line tool for quick data inspection and preprocessing.
 Implemented modular CLI architecture (argparse) and packaging with pyproject.toml.
-Designed for reproducible local installation via uv pip install -e .
 
 ## Installation
 
