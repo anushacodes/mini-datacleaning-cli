@@ -1,0 +1,21 @@
+id,name,age,income,city,purchases_last_month,satisfaction_score
+1,Alice,56.0,55000.0,nan,13.0,
+2,Bob,46.0,85000.0,San Francisco,0.0,4.0
+3,Charlie,32.0,,nan,3.0,
+4,David,,40000.0,New York,1.0,
+5,Eva,25.0,85000.0,Chicago,7.0,4.0
+6,Frank,38.0,55000.0,new york,3.0,1.0
+7,Grace,56.0,,New York,1.0,
+8,Hank,36.0,85000.0,Houston,13.0,5.0
+9,Ivy,40.0,40000.0,Chicago,5.0,5.0
+10,Jack,28.0,40000.0,Chicago,5.0,2.0
+11,Kara,28.0,,New York,9.0,5.0
+12,Liam,41.0,70000.0,Chicago,3.0,2.0
+13,Mona,53.0,55000.0,nan,5.0,1.0
+14,Nina,57.0,85000.0,Chicago,12.0,4.0
+15,Omar,41.0,85000.0,Houston,14.0,4.0
+16, ,20.0,70000.0,Houston,1.0,4.0
+17,Quinn,39.0,85000.0,Houston,9.0,5.0
+18,Rita,19.0,85000.0,Houston,,1.0
+19,Sam,41.0,40000.0,nan,1.0,5.0
+20,Tina,61.0,70000.0,San Francisco,9.0,5.0
