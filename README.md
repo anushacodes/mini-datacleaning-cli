@@ -1,15 +1,13 @@
-````markdown
-# Dataz CLI
+# DataClean CLI
 
 Lightweight Python command-line tool for quick data inspection and preprocessing.
-Implemented modular CLI architecture (argparse), packaging with pyproject.toml, and data operations using pandas.
+Implemented modular CLI architecture (argparse) and packaging with pyproject.toml.
 Designed for reproducible local installation via uv pip install -e .
 
 ## Installation
 
 ```
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/anushacodes/mini-datacleaning-cli.git
 uv pip install -e .
 ````
 
@@ -30,8 +28,7 @@ uv run dataz --i path/to/data.csv --summarize
 
 ## Requirements
 
-* Python 3.8+
-* pandas
+* Python 3.10+
 * uv (for dependency management)
 
 
